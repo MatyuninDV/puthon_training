@@ -1,1 +1,1 @@
-# puthon_training
+# pнthon_training
